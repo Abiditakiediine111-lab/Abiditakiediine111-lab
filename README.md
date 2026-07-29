@@ -20,5 +20,17 @@ A C project for managing student records with file handling.
 
 ## Contact
 
-LinkedIn: Add your LinkedIn profile link
+LinkedIn: https://www.linkedin.com/in/abidi-taki-eddine-107994421?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 GitHub: https://github.com/Abiditakiediine111-lab
+## Connect with me
+
+- LinkedIn: Abidi Taki eddine
+- GitHub: https://github.com/Abiditakiediine111-lab
+
+## Learning
+
+Currently learning:
+- C Programming
+- Arduino
+- Automation Systems
+- Embedded Systems

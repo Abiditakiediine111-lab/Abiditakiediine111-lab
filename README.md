@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abidi Taki Eddine 👋
 
-<!--
-**Abiditakiediine111-lab/Abiditakiediine111-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Industrial Computer Science and Automation student
 
-Here are some ideas to get you started:
+## About Me
+I am a student interested in programming, embedded systems, and industrial automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- C Programming
+- Arduino
+- Industrial Automation
+- Embedded Systems
+- Git & GitHub
+
+## Projects
+
+🔹 Student Management System in C  
+A C project for managing student records with file handling.
+
+## Contact
+
+LinkedIn: Add your LinkedIn profile link
+GitHub: https://github.com/Abiditakiediine111-lab
